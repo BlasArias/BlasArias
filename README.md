@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="" target="blank">
+Blas</a></h1>
 
 Esta cuenta en GitHub fue creada para desarrollar proyectos/trabajos relacionados a la UCN.
 
